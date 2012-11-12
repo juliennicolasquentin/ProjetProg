@@ -1,0 +1,5 @@
+url=jdbc:oracle:thin:@10.2.50.5:1521:BD3
+username=PRENOM_NOM
+password=PRENOM_NOM
+driver=oracle.jdbc.OracleDriver
+
